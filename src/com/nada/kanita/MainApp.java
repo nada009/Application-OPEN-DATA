@@ -21,7 +21,7 @@ import javafx.stage.Stage;
 
 public class MainApp extends Application
 {
-	public static final String WINDOW_TITLE = "Nada Project";
+	public static final String WINDOW_TITLE = "OPEN DATA Project";
 	public static final int WINDOW_WIDTH = 1200;
 	public static final int WINDOW_HEIGHT = 640;
 	public static final int LEFT_CONTENT_WIDTH = 310;
@@ -81,7 +81,7 @@ public class MainApp extends Application
 		
 		// empty the list in the beginning
 		List<DataModel> filtered_list_bibliotheques = bi.getFilteredList("");
-//		filtered_list_bibliotheques.clear();
+		filtered_list_bibliotheques.clear();
 		HelperFunctions.addHeading("Bibliotheques Filter Results", filtered_list_box);
 		ListView<String> filtered_list_bibliotheques_view = HelperFunctions.addModelList(filtered_list_bibliotheques, "filtered", filtered_list_box);
 		HelperFunctions.addSearchChangeListener(bi, search_bar, filtered_list_bibliotheques_view, description_content);
