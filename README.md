@@ -13,6 +13,8 @@ The JSON files used by the application can be found in the `json_files` folder o
 
 ### Authors
 	* KANITA Nada
+	* ARKAM Sara
+	* GOUSSIN Floriane
 
 ### Sources used for learning JavaFX and JSON parsing
 	* http://tutorials.jenkov.com/javafx/index.html
