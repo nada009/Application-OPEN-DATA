@@ -1,0 +1,810 @@
+[ {
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "7b364827b32d69ebc454dfe8aeafe25a88773aeb",
+    "fields": {
+        "ville": "VILLEURBANNE", "reg_id_old": "R82", "uucr_id": "UU00758", "aca_nom": "Lyon", "com_nom": "Villeurbanne", "ouverture_dimanche": "oui", "horaires_le_samedi": "10h-20h", "etablissement_porteur": "Universit\u00e9 de Lyon", "nombre_de_semaines_an": "48 semaines par an", "uucr_nom": "Lyon", "com_code": "69266", "horaires_du_dimanche": "10h-20h", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 951, "dep_nom": "Rh\u00f4ne", "aca_id": "01-01-10", "nom_de_la_bu": "Sciences", "reg_nom_old": "Rh\u00f4ne-Alpes", "adresse_geographique": "Domaine de la Doua\n20, avenue Gaston Berger\nBP 72215", "horaires_semaine": "L-V : 8h-22h", "ouverture_conges_universitaires": "oui", "localisation": "Auvergne-Rh\u00f4ne-Alpes>Lyon>Rh\u00f4ne>Villeurbanne", "uai_etablissement_porteur": "0694094A", "date_de_mise_en_place1": "\u00e0 partir de 2017", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "oui", "horaire_ouverture_semaine_noel_paques": "L-V (9h-18h) : 2 semaine \u00e0 No\u00ebl, et L-D : vacances de printemps", "code_postal": "69622", "date_mise_en_place": "\u00e0 partir de 2016", "ouverture_22h_5j_semaine": "oui", "reg_nom": "Auvergne-Rh\u00f4ne-Alpes", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R84", "geolocalisation": [45.782162, 4.870387], "dep_id": "D069", "nombre_de_semaines_an1": "43 semaines par an", "nombre_de_semaines_an0": "48 semaines par an", "profil_disciplinaire": "Sciences, Staps"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [4.870387, 45.782162]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "ccf4606a3acfa25d0571729712cdf152eed941f1",
+    "fields": {
+        "ville": "Rennes", "reg_id_old": "R53", "uucr_id": "UU35701", "aca_nom": "Rennes", "com_nom": "Rennes", "ouverture_dimanche": "oui", "horaires_le_samedi": "8h45-19h", "etablissement_porteur": "Universit\u00e9 Bretagne Loire", "nombre_de_semaines_an": "34 semaines par an", "uucr_nom": "Rennes", "com_code": "35238", "horaires_du_dimanche": "13h-19h", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 757, "dep_nom": "Ille-et-Vilaine", "aca_id": "01-01-14", "nom_de_la_bu": "BU Droit, Economie, Gestion", "reg_nom_old": "Bretagne", "adresse_geographique": "7 place Hoche", "horaires_semaine": "L-V : 8h45-22h", "ouverture_conges_universitaires": "non", "localisation": "Bretagne>Ille-et-Vilaine>Rennes", "uai_etablissement_porteur": "0352756F", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "oui", "horaire_ouverture_semaine_noel_paques": "L-S : vacances de printemps uniquement", "code_postal": "35000", "date_mise_en_place": "\u00e0 partir de 2016", "ouverture_22h_5j_semaine": "oui", "reg_nom": "Bretagne", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R53", "geolocalisation": [48.115668, -1.676954], "dep_id": "D035", "nombre_de_semaines_an1": "34 semaines par an", "nombre_de_semaines_an0": "34 semaines par an", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES;Lettres, Sciences Humaines"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [-1.676954, 48.115668]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "54990eb8c1ca9bb6c3c0f50d4606ca761f9fd81a",
+    "fields": {
+        "ville": "Brest cedex 1", "reg_id_old": "R53", "uucr_id": "UU29701", "aca_nom": "Rennes", "com_nom": "Brest", "ouverture_dimanche": "non", "horaires_le_samedi": "9h-17h", "etablissement_porteur": "Universit\u00e9 Bretagne Loire", "nombre_de_semaines_an": "46 semaines par an", "uucr_nom": "Brest", "com_code": "29019", "ouverture_22h_5j_semaine": "oui", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 540, "dep_nom": "Finist\u00e8re", "aca_id": "01-01-14", "nom_de_la_bu": "Bouguen", "reg_nom_old": "Bretagne", "adresse_geographique": "10 avenue Le Gorgeu\nBP 91342", "horaires_semaine": "L-V : 8h-22h", "ouverture_conges_universitaires": "oui", "localisation": "Bretagne>Finist\u00e8re>Brest", "uai_etablissement_porteur": "0352756F", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "L- S : vacances de No\u00ebl et printemps", "code_postal": "29213", "reg_nom": "Bretagne", "ouverture_le_samedi_jusqu_a_18h": "non", "reg_id": "R53", "geolocalisation": [48.399494, -4.500645], "dep_id": "D029", "nombre_de_semaines_an0": "46 semaines par an", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES;Sciences, Staps"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [-4.500645, 48.399494]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "da43e48c0e2f25b4ac1994eae90e823dd5e89b84",
+    "fields": {
+        "ville": "Brest", "reg_id_old": "R53", "uucr_id": "UU29701", "aca_nom": "Rennes", "com_nom": "Brest", "ouverture_dimanche": "non", "horaires_le_samedi": "9h-13h", "etablissement_porteur": "Universit\u00e9 Bretagne Loire", "nombre_de_semaines_an": "46 semaines par an", "uucr_nom": "Brest", "com_code": "29019", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 550, "dep_nom": "Finist\u00e8re", "aca_id": "01-01-14", "nom_de_la_bu": "Lettres", "reg_nom_old": "Bretagne", "adresse_geographique": "11 avenue Foch", "horaires_semaine": "L-J : 8h-22h ; V : 8h-19h", "ouverture_conges_universitaires": "oui", "localisation": "Bretagne>Finist\u00e8re>Brest", "uai_etablissement_porteur": "0352756F", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "L- S : vacances de No\u00ebl et printemps", "code_postal": "29200", "reg_nom": "Bretagne", "ouverture_le_samedi_jusqu_a_18h": "non", "reg_id": "R53", "geolocalisation": [48.393774, -4.488077], "dep_id": "D029", "nombre_de_semaines_an0": "46 semaines par an", "profil_disciplinaire": "Lettres, Sciences Humaines"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [-4.488077, 48.393774]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "04f342b557a35f0411d4da6a02e2b4fc76befbe8",
+    "fields": {
+        "ville": "Lille", "reg_id_old": "R31", "uucr_id": "UU59702", "aca_nom": "Lille", "com_nom": "Lille", "ouverture_dimanche": "oui", "horaires_le_samedi": "9h-22h", "etablissement_porteur": "Institut d'\u00e9tudes politiques de Lille", "nombre_de_semaines_an": "toute ann\u00e9e", "uucr_nom": "Lille", "com_code": "59350", "horaires_du_dimanche": "9h-22h", "date_de_mise_en_place": "\u00e0 partir de 2017", "nombre_de_places": 200, "dep_nom": "Nord", "aca_id": "01-01-09", "nom_de_la_bu": "Biblioth\u00e8que", "reg_nom_old": "Nord-Pas-de-Calais", "adresse_geographique": "84, rue de Tr\u00e9vise", "horaires_semaine": "9h-22h", "ouverture_conges_universitaires": "oui", "localisation": "Hauts-de-France>Lille>Nord>Lille", "uai_etablissement_porteur": "0595876S", "date_de_mise_en_place1": "\u00e0 partir de 2017", "date_de_mise_en_place0": "\u00e0 partir de 2017", "ouverture_le_samedi_jusqu_a_19h": "oui", "horaire_ouverture_semaine_noel_paques": "9h-22h", "code_postal": "59000", "date_mise_en_place": "\u00e0 partir de 2017", "ouverture_22h_5j_semaine": "oui", "reg_nom": "Hauts-de-France", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R32", "geolocalisation": [50.622503, 3.07768], "dep_id": "D059", "nombre_de_semaines_an0": "toute l'ann\u00e9e", "profil_disciplinaire": "Droit, Sciences politiques"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [3.07768, 50.622503]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "87384371b6c8479c0cf07eb28d5e0352cbe8bdf4",
+    "fields": {
+        "ville": "Strasbourg", "reg_id_old": "R42", "uucr_id": "UU67701", "aca_nom": "Strasbourg", "com_nom": "Strasbourg", "ouverture_dimanche": "non", "horaires_le_samedi": "8h30-19h", "etablissement_porteur": "Universit\u00e9 de Strasbourg", "nombre_de_semaines_an": "\"semaine normale\"", "uucr_nom": "Strasbourg", "com_code": "67482", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 522, "dep_nom": "Bas-Rhin", "aca_id": "01-01-15", "nom_de_la_bu": "M\u00e9decine et d\u2019odontologie", "reg_nom_old": "Alsace", "adresse_geographique": "4 rue Kirschleger", "horaires_semaine": "9h-22h L-J  /9h-20h V", "ouverture_conges_universitaires": "oui", "localisation": "Grand Est>Strasbourg>Bas-Rhin>Strasbourg", "uai_etablissement_porteur": "0673021V", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "oui", "horaire_ouverture_semaine_noel_paques": "9h-22h L-J  /9h-20h V", "code_postal": "67084", "reg_nom": "Grand Est", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R44", "geolocalisation": [48.57744, 7.739294], "dep_id": "D067", "nombre_de_semaines_an0": "\"semaine normale\"", "profil_disciplinaire": "Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [7.739294, 48.57744]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "fd6237110bc6886b91bce3cdf849aad41d2cfc6d",
+    "fields": {
+        "ville": "Paris", "reg_id_old": "R11", "uucr_id": "UU00851", "aca_nom": "Paris", "com_nom": "Paris  6e", "ouverture_dimanche": "non", "horaires_le_samedi": "10h - 19h", "etablissement_porteur": "Universit\u00e9 Paris Descartes", "nombre_de_semaines_an": "28 semaines par an", "uucr_nom": "Paris", "com_code": "75106", "ouverture_22h_5j_semaine": "oui", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 280, "dep_nom": "Paris", "nom_de_la_bu": "Saints-P\u00e8res sciences biologiques, math. et informatique", "reg_nom_old": "\u00cele-de-France", "adresse_geographique": "Centre universitaire des Saints-P\u00e8res \n45 rue des Saints-P\u00e8res", "horaires_semaine": "Lundi-vendredi 9h - 22h", "ouverture_conges_universitaires": "oui", "localisation": "\u00cele-de-France>Paris>Paris>Paris  6e", "uai_etablissement_porteur": "0751721N", "date_de_mise_en_place1": "d\u00e9j\u00e0 r\u00e9alis\u00e9", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "oui", "horaire_ouverture_semaine_noel_paques": "Pas de femeture", "code_postal": "75006", "reg_nom": "\u00cele-de-France", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R11", "geolocalisation": [48.855532, 2.331288], "dep_id": "D075", "nombre_de_semaines_an0": "31 semaines par an", "profil_disciplinaire": "Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [2.331288, 48.855532]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "53def429546ccc4ee6c8329e9940cbaaa6b180a5",
+    "fields": {
+        "ville": "Paris", "reg_id_old": "R11", "uucr_id": "UU00851", "aca_nom": "Paris", "com_nom": "Paris  5e", "ouverture_dimanche": "non", "horaires_le_samedi": "10h-17h30", "etablissement_porteur": "Universit\u00e9 Sorbonne Nouvelle - Paris 3", "nombre_de_semaines_an": "8 semaines par an", "uucr_nom": "Paris", "com_code": "75105", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 714, "dep_nom": "Paris", "nom_de_la_bu": "BU Censier", "reg_nom_old": "\u00cele-de-France", "adresse_geographique": "13 rue Santeuil", "horaires_semaine": "lundi-vendredi 9h- 21h", "ouverture_conges_universitaires": "non", "localisation": "\u00cele-de-France>Paris>Paris>Paris  5e", "uai_etablissement_porteur": "0751719L", "date_de_mise_en_place1": "d\u00e9j\u00e0 r\u00e9alis\u00e9", "date_de_mise_en_place0": "d\u00e9j\u00e0 r\u00e9alis\u00e9", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "Vacances de printemps", "code_postal": "75005", "reg_nom": "\u00cele-de-France", "ouverture_le_samedi_jusqu_a_18h": "non", "reg_id": "R11", "geolocalisation": [48.840148, 2.354175], "dep_id": "D075", "nombre_de_semaines_an0": "toute l'ann\u00e9e universitaire", "profil_disciplinaire": "Lettres, Sciences Humaines"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [2.354175, 48.840148]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "f34894e0580a60ecb41ef3908cb19d358c539c98",
+    "fields": {
+        "ville": "Orleans", "reg_id_old": "R24", "uucr_id": "UU45701", "aca_nom": "Orl\u00e9ans-Tours", "com_nom": "Orl\u00e9ans", "ouverture_dimanche": "non", "horaires_le_samedi": "9h-18h", "etablissement_porteur": "Universit\u00e9 d'Orl\u00e9ans", "nombre_de_semaines_an": "pas d'extension", "uucr_nom": "Orl\u00e9ans", "com_code": "45234", "ouverture_22h_5j_semaine": "non", "nombre_de_places": 403, "dep_nom": "Loiret", "aca_id": "01-01-18", "nom_de_la_bu": "B.U. Droit, Economie, Gestion", "reg_nom_old": "Centre", "adresse_geographique": "7 rue de Blois", "horaires_semaine": "Lundi-vendredi 8h-20h", "ouverture_conges_universitaires": "non", "localisation": "Centre-Val de Loire>Loiret>Orl\u00e9ans", "uai_etablissement_porteur": "0450855K", "date_de_mise_en_place1": "d\u00e9j\u00e0 r\u00e9alis\u00e9", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "vacances de printemps", "code_postal": "45072", "reg_nom": "Centre-Val de Loire", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R24", "geolocalisation": [47.846012, 1.9325], "dep_id": "D045", "nombre_de_semaines_an0": "extension sur 24 semaines de septembre \u00e0 avril/mai", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [1.9325, 47.846012]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "c33479b927d45dd360cf22ba92fcaf286170f8c2",
+    "fields": {
+        "ville": "Strasbourg", "reg_id_old": "R42", "uucr_id": "UU67701", "aca_nom": "Strasbourg", "com_nom": "Strasbourg", "ouverture_dimanche": "non", "horaires_le_samedi": "9h-17h", "etablissement_porteur": "Universit\u00e9 de Strasbourg", "nombre_de_semaines_an": "\"semaine normale\"", "uucr_nom": "Strasbourg", "com_code": "67482", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 80, "dep_nom": "Bas-Rhin", "aca_id": "01-01-15", "nom_de_la_bu": "Biblioth\u00e8que de l'INSA", "reg_nom_old": "Alsace", "adresse_geographique": "24 boulevard de la Victoire", "horaires_semaine": "8h-20h30", "ouverture_conges_universitaires": "oui", "localisation": "Grand Est>Strasbourg>Bas-Rhin>Strasbourg", "uai_etablissement_porteur": "0673021V", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "code_postal": "67084", "reg_nom": "Grand Est", "nombre_de_semaines_an0": "\"semaine normale\"", "reg_id": "R44", "geolocalisation": [48.581352, 7.766767], "dep_id": "D067", "ouverture_le_samedi_jusqu_a_18h": "non", "profil_disciplinaire": "Sciences, Staps;Autres"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [7.766767, 48.581352]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "cb413b2daf2b4baff8a09458d02f56c56b098374",
+    "fields": {
+        "ville": "Paris", "reg_id_old": "R11", "uucr_id": "UU00851", "aca_nom": "Paris", "com_nom": "Paris 14e", "ouverture_dimanche": "oui", "horaires_le_samedi": "10h-19h", "etablissement_porteur": "Universit\u00e9 Paris Descartes", "com_code": "75114", "horaires_du_dimanche": "12h-19h", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 240, "dep_nom": "Paris", "nom_de_la_bu": "BU Cochin", "reg_nom_old": "\u00cele-de-France", "adresse_geographique": "24 rue du Faubourg Saint-Jacques", "horaires_semaine": "Lundi-vendredi 9h30-23h", "ouverture_conges_universitaires": "non", "localisation": "\u00cele-de-France>Paris>Paris>Paris 14e", "uai_etablissement_porteur": "0751721N", "uucr_nom": "Paris", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "oui", "code_postal": "75014", "date_mise_en_place": "\u00e0 partir de 2016", "ouverture_22h_5j_semaine": "oui", "reg_nom": "\u00cele-de-France", "horaire_ouverture_semaine_noel_paques": "Vacances de printemps", "reg_id": "R11", "geolocalisation": [48.837455, 2.338516], "dep_id": "D075", "ouverture_le_samedi_jusqu_a_18h": "oui", "profil_disciplinaire": "Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [2.338516, 48.837455]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "dbbc97ca862523023117c1a6abb7efd547ae7662",
+    "fields": {
+        "ville": "Paris", "reg_id_old": "R11", "uucr_id": "UU00851", "aca_nom": "Paris", "com_nom": "Paris  7e", "ouverture_dimanche": "non", "horaires_le_samedi": "9h30-20h00", "etablissement_porteur": "Institut d'\u00e9tudes politiques de Paris", "nombre_de_semaines_an": "31 semaines par an", "uucr_nom": "Paris", "com_code": "75107", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 295, "dep_nom": "Paris", "nom_de_la_bu": "Biblioth\u00e8que de Sciences Po", "reg_nom_old": "\u00cele-de-France", "adresse_geographique": "30 rue Saint Guillaume", "horaires_semaine": "9h30-21h30", "ouverture_conges_universitaires": "oui", "localisation": "\u00cele-de-France>Paris>Paris>Paris  7e", "uai_etablissement_porteur": "0753431X", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "oui", "code_postal": "75007", "reg_nom": "\u00cele-de-France", "reg_id": "R11", "geolocalisation": [48.85421, 2.328261], "dep_id": "D075", "ouverture_le_samedi_jusqu_a_18h": "oui", "profil_disciplinaire": "Droit, Sciences politiques"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [2.328261, 48.85421]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "27720ab0a0ad94c580a929e4b2fc4e38e5ab3aaf",
+    "fields": {
+        "ville": "CHATENAY-MALABRY", "reg_id_old": "R11", "uucr_id": "UU00851", "aca_nom": "Paris", "com_nom": "Ch\u00e2tenay-Malabry", "ouverture_dimanche": "non", "horaires_le_samedi": "/", "etablissement_porteur": "Universit\u00e9 Paris-Sud", "nombre_de_semaines_an": "32 semaines par an", "com_code": "92019", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 569, "dep_nom": "Paris", "nom_de_la_bu": "Ch\u00e2tenay Malabry Pharmacie", "reg_nom_old": "\u00cele-de-France", "adresse_geographique": "5, rue Jean-Baptiste Cl\u00e9ment", "horaires_semaine": "Lundi-jeudi \n9h - 20h30\nVendredi 9h-19h", "ouverture_conges_universitaires": "non", "localisation": "\u00cele-de-France>Paris>Paris>Ch\u00e2tenay-Malabry", "uai_etablissement_porteur": "0911101C", "uucr_nom": "Paris", "ouverture_le_samedi_jusqu_a_19h": "non", "code_postal": "92296", "reg_nom": "\u00cele-de-France", "horaire_ouverture_semaine_noel_paques": "Vacances de printemps", "reg_id": "R11", "geolocalisation": [48.761938, 2.272489], "dep_id": "D075", "ouverture_le_samedi_jusqu_a_18h": "non", "profil_disciplinaire": "Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [2.272489, 48.761938]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "c6fb06f1bb42f467faba0f744f8a7cc6031b5114",
+    "fields": {
+        "ville": "Mulhouse", "reg_id_old": "R42", "uucr_id": "UU68701", "aca_nom": "Strasbourg", "com_nom": "Mulhouse", "ouverture_dimanche": "non", "horaires_le_samedi": "/", "etablissement_porteur": "Universit\u00e9 de Haute-Alsace", "nombre_de_semaines_an": "25 semaines par an", "com_code": "68224", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 26, "dep_nom": "Haut-Rhin", "aca_id": "01-01-15", "nom_de_la_bu": "CLAM Illberg", "reg_nom_old": "Alsace", "adresse_geographique": "8, rue des Fr\u00e8res Lumi\u00e8re", "horaires_semaine": "8h30-18h L-J/ 8h30-17h V", "localisation": "Grand Est>Strasbourg>Haut-Rhin>Mulhouse", "uai_etablissement_porteur": "0681166Y", "uucr_nom": "Mulhouse", "ouverture_le_samedi_jusqu_a_19h": "non", "code_postal": "68093", "reg_nom": "Grand Est", "reg_id": "R44", "geolocalisation": [47.730249, 7.312049], "dep_id": "D068", "ouverture_le_samedi_jusqu_a_18h": "non", "profil_disciplinaire": "Lettres, Sciences Humaines;Autres"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [7.312049, 47.730249]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "605fdda040815a89baacda98d60686aee252903f",
+    "fields": {
+        "ville": "Le Mans", "reg_id_old": "R52", "uucr_id": "UU72701", "aca_nom": "Nantes", "com_nom": "Le Mans", "ouverture_dimanche": "non", "horaires_le_samedi": "9h-17h", "etablissement_porteur": "Universit\u00e9 Bretagne Loire", "nombre_de_semaines_an": "30 semaines par an", "uucr_nom": "Le Mans", "com_code": "72181", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2017", "nombre_de_places": 1097, "dep_nom": "Sarthe", "aca_id": "01-01-17", "nom_de_la_bu": "BU Le Mans", "reg_nom_old": "Pays de la Loire", "adresse_geographique": "Avenue Olivier Messiaen", "horaires_semaine": "L-J : 8h30-22h ; V : 8h-20h", "ouverture_conges_universitaires": "non", "localisation": "Pays de la Loire>Sarthe>Le Mans", "uai_etablissement_porteur": "0352756F", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "L- S : vacances de printemps uniquement", "code_postal": "72000", "reg_nom": "Pays de la Loire", "ouverture_le_samedi_jusqu_a_18h": "non", "reg_id": "R52", "geolocalisation": [48.016159, 0.160645], "dep_id": "D072", "nombre_de_semaines_an0": "46 semaines par an", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES;Lettres, Sciences Humaines;Sciences, Staps;Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [0.160645, 48.016159]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "cc546526252c3ec423144df354172652c9f69c1a",
+    "fields": {
+        "ville": "PESSAC", "reg_id_old": "R72", "uucr_id": "UU33701", "aca_nom": "Bordeaux", "com_nom": "Pessac", "ouverture_dimanche": "non", "horaires_le_samedi": "9h-18h", "etablissement_porteur": "Universit\u00e9 de Bordeaux", "nombre_de_semaines_an": "39 semaines par an", "com_code": "33318", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2017", "nombre_de_places": 671, "dep_nom": "Gironde", "aca_id": "01-01-04", "nom_de_la_bu": "BU DSPE - DROIT, SCIENCE POLITIQUE, ECONOMIE", "reg_nom_old": "Aquitaine", "adresse_geographique": "4 avenue Denis Diderot", "horaires_semaine": "L-V : 8h30-21h", "ouverture_conges_universitaires": "non", "localisation": "Nouvelle-Aquitaine>Bordeaux>Gironde>Pessac", "uai_etablissement_porteur": "0333298F", "uucr_nom": "Bordeaux", "date_de_mise_en_place0": "\u00e0 partir de 2017", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "L-S : 1 semaine \u00e0 No\u00ebl", "code_postal": "33607", "reg_nom": "Nouvelle-Aquitaine", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R75", "geolocalisation": [44.797685, -0.616825], "dep_id": "D033", "nombre_de_semaines_an0": "39 semaines par an", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [-0.616825, 44.797685]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "db665172f1ece6e57af804a1be934ceaafb3853c",
+    "fields": {
+        "ville": "CAEN", "reg_id_old": "R25", "uucr_id": "UU14601", "aca_nom": "Caen", "com_nom": "Caen", "ouverture_dimanche": "oui", "horaires_le_samedi": "9h-12h", "etablissement_porteur": "Normandie Universit\u00e9", "com_code": "14118", "horaires_du_dimanche": "13h-19h", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 500, "dep_nom": "Calvados", "aca_id": "01-01-05", "nom_de_la_bu": "BU Sant\u00e9", "reg_nom_old": "Basse-Normandie", "adresse_geographique": "P\u00f4le des formations et de la recherche en sant\u00e9, 2, rue des Rochambelles", "horaires_semaine": "Lundi 10h-23h\nMardi - vendredi 9h-23h", "ouverture_conges_universitaires": "non", "localisation": "Normandie>Caen>Calvados>Caen", "uai_etablissement_porteur": "0142382N", "uucr_nom": "Caen", "ouverture_le_samedi_jusqu_a_19h": "non", "code_postal": "14032", "date_mise_en_place": "\u00e0 partir de 2017", "ouverture_22h_5j_semaine": "oui", "reg_nom": "Normandie", "horaire_ouverture_semaine_noel_paques": "vacances de printemps", "reg_id": "R28", "geolocalisation": [49.205604, -0.357603], "dep_id": "D014", "ouverture_le_samedi_jusqu_a_18h": "non", "profil_disciplinaire": "Autres;Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [-0.357603, 49.205604]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "cf54f65284c4c669a1702385c45b66a99159cac0",
+    "fields": {
+        "ville": "CAEN Cedex", "reg_id_old": "R25", "uucr_id": "UU14601", "aca_nom": "Caen", "com_nom": "Caen", "ouverture_dimanche": "non", "horaires_le_samedi": "9h-12h", "etablissement_porteur": "Normandie Universit\u00e9", "com_code": "14118", "ouverture_22h_5j_semaine": "oui", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 830, "dep_nom": "Calvados", "aca_id": "01-01-05", "nom_de_la_bu": "Droit-Lettres", "reg_nom_old": "Basse-Normandie", "adresse_geographique": "Esplanade de la Paix", "horaires_semaine": "Lundi 10h-23h\nMardi - vendredi 9h-23h", "ouverture_conges_universitaires": "non", "localisation": "Normandie>Caen>Calvados>Caen", "uai_etablissement_porteur": "0142382N", "uucr_nom": "Caen", "ouverture_le_samedi_jusqu_a_19h": "non", "code_postal": "14032", "reg_nom": "Normandie", "horaire_ouverture_semaine_noel_paques": "vacances de printemps", "reg_id": "R28", "geolocalisation": [49.190201, -0.365283], "dep_id": "D014", "ouverture_le_samedi_jusqu_a_18h": "non", "profil_disciplinaire": "Autres;Droit, Sciences politiques;Lettres, Sciences Humaines"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [-0.365283, 49.190201]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "fa3bcfd0b4d7aea37eb3ea7b79b2dc10b11f437a",
+    "fields": {
+        "ville": "Lyon cedex 07", "reg_id_old": "R82", "uucr_id": "UU00758", "aca_nom": "Lyon", "com_nom": "Lyon 7e", "ouverture_dimanche": "non", "horaires_le_samedi": "9h-17h", "etablissement_porteur": "Universit\u00e9 de Lyon", "nombre_de_semaines_an": "48 semaines par an", "uucr_nom": "Lyon", "com_code": "69387", "horaires_du_dimanche": "10h-17h", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 800, "dep_nom": "Rh\u00f4ne", "aca_id": "01-01-10", "nom_de_la_bu": "Biblioth\u00e8que Diderot de Lyon", "reg_nom_old": "Rh\u00f4ne-Alpes", "adresse_geographique": "5 parvis Ren\u00e9 Descartes\nBP 7000", "horaires_semaine": "L-V : 9h-19h", "ouverture_conges_universitaires": "oui", "localisation": "Auvergne-Rh\u00f4ne-Alpes>Lyon>Rh\u00f4ne>Lyon 7e", "uai_etablissement_porteur": "0694094A", "date_de_mise_en_place1": "\u00e0 partir de 2018", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "L-V 9h-18h : 2 semaine \u00e0 No\u00ebl, et L-D : vacances de printemps", "code_postal": "69342", "date_mise_en_place": "\u00e0 partir de 2017", "ouverture_22h_5j_semaine": "non", "reg_nom": "Auvergne-Rh\u00f4ne-Alpes", "ouverture_le_samedi_jusqu_a_18h": "non", "reg_id": "R84", "geolocalisation": [45.731635, 4.833326], "dep_id": "D069", "nombre_de_semaines_an1": "43 semaines par an", "nombre_de_semaines_an0": "48 semaines par an", "profil_disciplinaire": "Lettres, Sciences Humaines;Sciences, Staps"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [4.833326, 45.731635]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "722fe8db8f28f3779fa3d96a52e70c7f09ee95d6",
+    "fields": {
+        "ville": "BORDEAUX", "reg_id_old": "R72", "uucr_id": "UU33701", "aca_nom": "Bordeaux", "com_nom": "Bordeaux", "ouverture_dimanche": "oui", "horaires_le_samedi": "9h-18h", "etablissement_porteur": "Universit\u00e9 de Bordeaux", "nombre_de_semaines_an": "40 semaines par an", "uucr_nom": "Bordeaux", "com_code": "33063", "horaires_du_dimanche": "13h-18h", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 669, "dep_nom": "Gironde", "aca_id": "01-01-04", "nom_de_la_bu": "BU SVS - SCIENCES DU VIVANT ET DE LA SANTE", "reg_nom_old": "Aquitaine", "adresse_geographique": "146 rue L\u00e9o Saignat", "horaires_semaine": "L-V : 8h30-22h", "ouverture_conges_universitaires": "non", "localisation": "Nouvelle-Aquitaine>Bordeaux>Gironde>Bordeaux", "uai_etablissement_porteur": "0333298F", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "L-S :2 semaines de No\u00ebl.", "code_postal": "33076", "date_mise_en_place": "\u00e0 partir de 2016", "ouverture_22h_5j_semaine": "oui", "reg_nom": "Nouvelle-Aquitaine", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R75", "geolocalisation": [44.825861, -0.605838], "dep_id": "D033", "nombre_de_semaines_an1": "5 semaines par an", "nombre_de_semaines_an0": "40 semaines par an", "profil_disciplinaire": "Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [-0.605838, 44.825861]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "c080418994a22f38f2fd7e0e8abd3b31b0862dc4",
+    "fields": {
+        "ville": "Paris", "reg_id_old": "R11", "uucr_id": "UU00851", "aca_nom": "Paris", "com_nom": "Paris  5e", "ouverture_dimanche": "non", "horaires_le_samedi": "10h-17h30", "etablissement_porteur": "Universit\u00e9 Sorbonne Nouvelle - Paris 3", "nombre_de_semaines_an": "8 semaines par an", "com_code": "75105", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 45, "dep_nom": "Paris", "nom_de_la_bu": "Th\u00e9\u00e2troth\u00e8que Gaston-Baty", "reg_nom_old": "\u00cele-de-France", "adresse_geographique": "13 rue Santeuil", "horaires_semaine": "lundi-vendredi 9h- 21h", "ouverture_conges_universitaires": "non", "localisation": "\u00cele-de-France>Paris>Paris>Paris  5e", "uai_etablissement_porteur": "0751719L", "uucr_nom": "Paris", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "Ferm\u00e9e", "code_postal": "75005", "reg_nom": "\u00cele-de-France", "ouverture_le_samedi_jusqu_a_18h": "non", "reg_id": "R11", "geolocalisation": [48.840148, 2.354175], "dep_id": "D075", "nombre_de_semaines_an0": "de d\u00e9but octobre \u00e0 fin avril", "profil_disciplinaire": "Lettres, Sciences Humaines"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [2.354175, 48.840148]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "040cb76495b0fa909a59d66271bdcfd6a9a54749",
+    "fields": {
+        "ville": "OULLINS", "reg_id_old": "R82", "uucr_id": "UU00758", "aca_nom": "Lyon", "com_nom": "Oullins", "nombre_de_places": 150, "horaires_le_samedi": "10h-20h", "etablissement_porteur": "Universit\u00e9 de Lyon", "nombre_de_semaines_an": "47 semaines par an", "com_code": "69149", "ouverture_22h_5j_semaine": "oui", "date_de_mise_en_place": "\u00e0 partir de 2016", "dep_nom": "Rh\u00f4ne", "aca_id": "01-01-10", "nom_de_la_bu": "Lyon-Sud Antenne Sant\u00e9", "reg_nom_old": "Rh\u00f4ne-Alpes", "adresse_geographique": "Centre Hospitalier Lyon-Sud\nFacult\u00e9 de m\u00e9decine\nLyon-Sud\nChemin du Petit Revoyet\nBP 12", "horaires_semaine": "L-V : 8h30-22h", "localisation": "Auvergne-Rh\u00f4ne-Alpes>Lyon>Rh\u00f4ne>Oullins", "uai_etablissement_porteur": "0694094A", "uucr_nom": "Lyon", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "oui", "code_postal": "69922", "reg_nom": "Auvergne-Rh\u00f4ne-Alpes", "nombre_de_semaines_an0": "47 semaines par an", "reg_id": "R84", "geolocalisation": [45.704529, 4.809285], "dep_id": "D069", "ouverture_le_samedi_jusqu_a_18h": "oui", "profil_disciplinaire": "Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [4.809285, 45.704529]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "70ba855643d2e46609a0da43b9ba1e5f7d60943b",
+    "fields": {
+        "ville": "SAINT-PRIEST-EN-JAREZ", "reg_id_old": "R82", "uucr_id": "UU00753", "aca_nom": "Lyon", "com_nom": "Saint-Priest-en-Jarez", "nombre_de_places": 430, "etablissement_porteur": "Universit\u00e9 de Lyon", "nombre_de_semaines_an": "47 semaines par an", "date_de_mise_en_place1": "\u00e0 partir de 2016", "com_code": "42275", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "dep_nom": "Loire", "aca_id": "01-01-10", "nom_de_la_bu": "Biblioth\u00e8que universitaire Sant\u00e9", "reg_nom_old": "Rh\u00f4ne-Alpes", "adresse_geographique": "CAMPUS SANTE INNOVATIONS\n10, Rue de la Marandi\u00e8re", "horaires_semaine": "L-V : 8h-20h", "ouverture_conges_universitaires": "oui", "localisation": "Auvergne-Rh\u00f4ne-Alpes>Lyon>Loire>Saint-Priest-en-Jarez", "uai_etablissement_porteur": "0694094A", "uucr_nom": "Saint-\u00c9tienne", "code_postal": "42270", "reg_nom": "Auvergne-Rh\u00f4ne-Alpes", "horaire_ouverture_semaine_noel_paques": "L-V : 1 semaine \u00e0 No\u00ebl, et vacances de printemps", "reg_id": "R84", "geolocalisation": [45.48022, 4.360595], "dep_id": "D042", "ouverture_le_samedi_jusqu_a_18h": "non", "profil_disciplinaire": "Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [4.360595, 45.48022]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "8df04edfb844ebed9108e41095745fc5ecfed7c7",
+    "fields": {
+        "ville": "TALENCE", "reg_id_old": "R72", "uucr_id": "UU33701", "aca_nom": "Bordeaux", "com_nom": "Talence", "ouverture_dimanche": "oui", "horaires_le_samedi": "9h-18h", "etablissement_porteur": "Universit\u00e9 de Bordeaux", "nombre_de_semaines_an": "40 semaines par an", "uucr_nom": "Bordeaux", "com_code": "33522", "horaires_du_dimanche": "13h-18h", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 1050, "dep_nom": "Gironde", "aca_id": "01-01-04", "nom_de_la_bu": "BU ST - SCIENCES ET TECHNIQUES", "reg_nom_old": "Aquitaine", "adresse_geographique": "B\u00e2t B20, All\u00e9e Baudrimont", "horaires_semaine": "L-V : 8h30-22h", "ouverture_conges_universitaires": "non", "localisation": "Nouvelle-Aquitaine>Bordeaux>Gironde>Talence", "uai_etablissement_porteur": "0333298F", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "L-S : 2 semaines de No\u00ebl.", "code_postal": "33405", "date_mise_en_place": "\u00e0 partir de 2016", "ouverture_22h_5j_semaine": "oui", "reg_nom": "Nouvelle-Aquitaine", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R75", "geolocalisation": [44.80663, -0.601796], "dep_id": "D033", "nombre_de_semaines_an1": "5 semaines par an", "nombre_de_semaines_an0": "40 semaines par an", "profil_disciplinaire": "Sciences, Staps"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [-0.601796, 44.80663]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "7d9bc37a1684882242b283847c5c5462d372bda2",
+    "fields": {
+        "ville": "Pessac", "reg_id_old": "R72", "uucr_id": "UU33701", "aca_nom": "Bordeaux", "com_nom": "Pessac", "ouverture_dimanche": "non", "horaires_le_samedi": "9h-18h", "etablissement_porteur": "Universit\u00e9 de Bordeaux", "nombre_de_semaines_an": "39 semaines par an", "com_code": "33318", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2017", "nombre_de_places": 527, "dep_nom": "Gironde", "aca_id": "01-01-04", "nom_de_la_bu": "Lettres et Sciences Humaines", "reg_nom_old": "Aquitaine", "adresse_geographique": "4 avenue Denis Diderot", "horaires_semaine": "L-V : 8h30-21h", "ouverture_conges_universitaires": "non", "localisation": "Nouvelle-Aquitaine>Bordeaux>Gironde>Pessac", "uai_etablissement_porteur": "0333298F", "uucr_nom": "Bordeaux", "date_de_mise_en_place0": "\u00e0 partir de 2017", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "L-S : 1 semaine \u00e0 No\u00ebl", "code_postal": "33607", "reg_nom": "Nouvelle-Aquitaine", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R75", "geolocalisation": [44.79652, -0.619422], "dep_id": "D033", "nombre_de_semaines_an0": "39 semaines par an", "profil_disciplinaire": "Lettres, Sciences Humaines"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [-0.619422, 44.79652]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "0d413a60b66477d84adbe35527691be90d0b580a",
+    "fields": {
+        "ville": "SAINT-ETIENNE", "reg_id_old": "R82", "uucr_id": "UU00753", "aca_nom": "Lyon", "com_nom": "Saint-\u00c9tienne", "ouverture_dimanche": "oui", "horaires_le_samedi": "9h-19h", "etablissement_porteur": "Universit\u00e9 de Lyon", "nombre_de_semaines_an": "47 semaines par an", "uucr_nom": "Saint-\u00c9tienne", "com_code": "42218", "horaires_du_dimanche": "14h-19h", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 365, "dep_nom": "Loire", "aca_id": "01-01-10", "nom_de_la_bu": "Biblioth\u00e8que universitaire Tr\u00e9filerie", "reg_nom_old": "Rh\u00f4ne-Alpes", "adresse_geographique": "1, rue Tr\u00e9filerie", "horaires_semaine": "L-V : 8h-20h", "ouverture_conges_universitaires": "oui", "localisation": "Auvergne-Rh\u00f4ne-Alpes>Lyon>Loire>Saint-\u00c9tienne", "uai_etablissement_porteur": "0694094A", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "oui", "horaire_ouverture_semaine_noel_paques": "L-V (9h-19h) : 2 semaine \u00e0 No\u00ebl, et L-S : vacances de printemps", "code_postal": "42023", "date_mise_en_place": "\u00e0 partir de 2018", "ouverture_22h_5j_semaine": "non", "reg_nom": "Auvergne-Rh\u00f4ne-Alpes", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R84", "geolocalisation": [45.427349, 4.392506], "dep_id": "D042", "nombre_de_semaines_an1": "47 semaines par an", "nombre_de_semaines_an0": "47 semaines par an", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES;Lettres, Sciences Humaines"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [4.392506, 45.427349]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "611c3f74d55eab49639665b3794ad572c48bad19",
+    "fields": {
+        "ville": "LYON CEDEX 08", "reg_id_old": "R82", "uucr_id": "UU00758", "aca_nom": "Lyon", "com_nom": "Lyon 8e", "ouverture_dimanche": "oui", "horaires_le_samedi": "9h-20h", "etablissement_porteur": "Universit\u00e9 de Lyon", "nombre_de_semaines_an": "48 semaines par an", "uucr_nom": "Lyon", "com_code": "69388", "horaires_du_dimanche": "10h-20h", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 738, "dep_nom": "Rh\u00f4ne", "aca_id": "01-01-10", "nom_de_la_bu": "Sant\u00e9 - BU Rockefeller", "reg_nom_old": "Rh\u00f4ne-Alpes", "adresse_geographique": "8 avenue Rockefeller", "horaires_semaine": "L-V : 8h-22h", "ouverture_conges_universitaires": "non", "localisation": "Auvergne-Rh\u00f4ne-Alpes>Lyon>Rh\u00f4ne>Lyon 8e", "uai_etablissement_porteur": "0694094A", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "oui", "horaire_ouverture_semaine_noel_paques": "L-D : vacances de printemps", "code_postal": "69372", "date_mise_en_place": "\u00e0 partir de 2016", "ouverture_22h_5j_semaine": "oui", "reg_nom": "Auvergne-Rh\u00f4ne-Alpes", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R84", "geolocalisation": [45.741541, 4.880414], "dep_id": "D069", "nombre_de_semaines_an1": "43 semaines par an", "nombre_de_semaines_an0": "48 semaines par an", "profil_disciplinaire": "Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [4.880414, 45.741541]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "6b62ffe0fc747c500182a329ab88c057443e29a7",
+    "fields": {
+        "ville": "NANTES Cedex 3", "reg_id_old": "R52", "uucr_id": "UU44701", "aca_nom": "Nantes", "com_nom": "Nantes", "ouverture_dimanche": "non", "horaires_le_samedi": "8h30-18h", "etablissement_porteur": "Universit\u00e9 Bretagne Loire", "nombre_de_semaines_an": "49 semaines par an", "uucr_nom": "Nantes", "com_code": "44109", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 712, "dep_nom": "Loire-Atlantique", "aca_id": "01-01-17", "nom_de_la_bu": "Droit Economie", "reg_nom_old": "Pays de la Loire", "adresse_geographique": "Chemin de la Censive du Tertre", "horaires_semaine": "L-V : 8h30-19h", "ouverture_conges_universitaires": "oui", "localisation": "Pays de la Loire>Loire-Atlantique>Nantes", "uai_etablissement_porteur": "0352756F", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2017", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "L-S : 1 semaine \u00e0 No\u00ebl + vacances de printemps", "code_postal": "44322", "reg_nom": "Pays de la Loire", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R52", "geolocalisation": [47.244741, -1.549064], "dep_id": "D044", "nombre_de_semaines_an0": "45 semaines par an", "profil_disciplinaire": "Economie, AES;Droit, Sciences politiques"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [-1.549064, 47.244741]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "8aa4d5b1554fa1b02e82c1a9c5421f79a351f143",
+    "fields": {
+        "ville": "Valenciennes cedex 9", "reg_id_old": "R31", "uucr_id": "UU59701", "aca_nom": "Lille", "com_nom": "Aulnoy-lez-Valenciennes", "ouverture_dimanche": "non", "horaires_le_samedi": "8h-13h", "etablissement_porteur": "Universit\u00e9 de Valenciennes et du Hainaut-Cambr\u00e9sis", "nombre_de_semaines_an": "8 mois par an", "com_code": "59032", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2017", "nombre_de_places": 793, "dep_nom": "Nord", "aca_id": "01-01-09", "nom_de_la_bu": "BU Mont Houy", "reg_nom_old": "Nord-Pas-de-Calais", "adresse_geographique": "Le Mont Houy", "horaires_semaine": "8h-20h", "ouverture_conges_universitaires": "non", "localisation": "Hauts-de-France>Lille>Nord>Aulnoy-lez-Valenciennes", "uai_etablissement_porteur": "0593279U", "uucr_nom": "Valenciennes", "date_de_mise_en_place0": "\u00e0 partir de 2019 : samedi 8h-17h", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "P\u00e2ques ouvert mais No\u00ebl \"15 jours fermeture\"", "code_postal": "59313", "reg_nom": "Hauts-de-France", "ouverture_le_samedi_jusqu_a_18h": "non", "reg_id": "R32", "geolocalisation": [50.325894, 3.513884], "dep_id": "D059", "nombre_de_semaines_an0": "\"semaine normale\"", "profil_disciplinaire": "Sciences, Staps;Lettres, Sciences Humaines"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [3.513884, 50.325894]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "2484b8cb8399f0bb1a459f5ce9eda4c11bf50458",
+    "fields": {
+        "ville": "Malakoff", "reg_id_old": "R11", "uucr_id": "UU00851", "aca_nom": "Paris", "com_nom": "Malakoff", "ouverture_dimanche": "non", "horaires_le_samedi": "10h-18h", "etablissement_porteur": "Universit\u00e9 Paris Descartes", "nombre_de_semaines_an": "42 semaines par an", "uucr_nom": "Paris", "com_code": "92046", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 400, "dep_nom": "Paris", "nom_de_la_bu": "Biblioth\u00e8que de droit", "reg_nom_old": "\u00cele-de-France", "adresse_geographique": "10 avenue Pierre Larousse", "horaires_semaine": "lundi-vendredi 8h- 20h", "ouverture_conges_universitaires": "oui", "localisation": "\u00cele-de-France>Paris>Paris>Malakoff", "uai_etablissement_porteur": "0751721N", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "ouverture 2 semaines \u00e0 No\u00ebl et une \u00e0 P\u00e2ques", "code_postal": "92240", "reg_nom": "\u00cele-de-France", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R11", "geolocalisation": [48.824415, 2.302214], "dep_id": "D075", "nombre_de_semaines_an0": "42 semaines par an", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [2.302214, 48.824415]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "ebabaeb792134e6d5b2e4ab91c89d087f8b451ea",
+    "fields": {
+        "ville": "Lyon", "reg_id_old": "R82", "uucr_id": "UU00758", "aca_nom": "Lyon", "com_nom": "Lyon 7e", "ouverture_dimanche": "non", "etablissement_porteur": "Universit\u00e9 de Lyon", "nombre_de_semaines_an": "5 semaines par an", "uucr_nom": "Lyon", "com_code": "69387", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 240, "dep_nom": "Rh\u00f4ne", "aca_id": "01-01-10", "nom_de_la_bu": "Sciences Po - Centre Berthelot", "reg_nom_old": "Rh\u00f4ne-Alpes", "adresse_geographique": "14 avenue Berthelot", "horaires_semaine": "L-J : 8h30-22h ; V : 8h30-17h30", "ouverture_conges_universitaires": "oui", "localisation": "Auvergne-Rh\u00f4ne-Alpes>Lyon>Rh\u00f4ne>Lyon 7e", "uai_etablissement_porteur": "0694094A", "date_de_mise_en_place1": "\u00e0 partir de 2019", "ouverture_le_samedi_jusqu_a_19h": "non", "code_postal": "69365", "reg_nom": "Auvergne-Rh\u00f4ne-Alpes", "horaire_ouverture_semaine_noel_paques": "L-V (9h-18h) : 2 semaine \u00e0 No\u00ebl, et L-S : vacances de printemps", "reg_id": "R84", "geolocalisation": [45.747073, 4.835541], "dep_id": "D069", "ouverture_le_samedi_jusqu_a_18h": "non", "profil_disciplinaire": "Droit, Sciences politiques"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [4.835541, 45.747073]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "a52ef4491ff792877961362e6beba321c0786265",
+    "fields": {
+        "ville": "Paris", "reg_id_old": "R11", "uucr_id": "UU00851", "aca_nom": "Paris", "com_nom": "Paris  6e", "ouverture_dimanche": "non", "horaires_le_samedi": "/", "etablissement_porteur": "Universit\u00e9 Paris Descartes", "com_code": "75106", "ouverture_22h_5j_semaine": "oui", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 165, "dep_nom": "Paris", "nom_de_la_bu": "Cordeliers", "reg_nom_old": "\u00cele-de-France", "adresse_geographique": "15 rue de l'\u00e9cole de m\u00e9decine", "horaires_semaine": "Lundi-vendredi 9h-23h", "ouverture_conges_universitaires": "non", "localisation": "\u00cele-de-France>Paris>Paris>Paris  6e", "uai_etablissement_porteur": "0751721N", "uucr_nom": "Paris", "date_de_mise_en_place0": "\u00e0 partir de 2016", "code_postal": "75006", "reg_nom": "\u00cele-de-France", "reg_id": "R11", "geolocalisation": [48.850773, 2.341185], "dep_id": "D075", "horaire_ouverture_semaine_noel_paques": "Vacances de printemps", "profil_disciplinaire": "Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [2.341185, 48.850773]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "8c04774ec5045d57c432d44950f7e8cf2806d492",
+    "fields": {
+        "ville": "Sophia-Antipolis", "reg_id_old": "R93", "uucr_id": "UU06701", "aca_nom": "Nice", "com_nom": "Biot", "ouverture_dimanche": "non", "horaires_le_samedi": "9h00-17h00", "etablissement_porteur": "Universit\u00e9 C\u00f4te d'Azur", "nombre_de_semaines_an": "46 semaines par an", "uucr_nom": "Nice", "com_code": "06018", "ouverture_22h_5j_semaine": "oui", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 2010, "dep_nom": "Alpes-Maritimes", "aca_id": "01-01-23", "nom_de_la_bu": "Learning Center Sophia Tech", "reg_nom_old": "Provence-Alpes-C\u00f4te d'Azur", "adresse_geographique": "Campus Sophia Tech\nUniversit\u00e9 Nice Sophia Antipolis\nB\u00e2t. Forum\nNiveau - 2\n\n930 Route des Colles", "horaires_semaine": "9h00-22h00", "ouverture_conges_universitaires": "oui", "localisation": "Provence-Alpes-C\u00f4te d'Azur>Nice>Alpes-Maritimes>Biot", "uai_etablissement_porteur": "0062126D", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "P\u00e2ques ouvert mais No\u00ebl \"1 semaine \u00e0 10 jours\" fermeture", "code_postal": "06903", "reg_nom": "Provence-Alpes-C\u00f4te d'Azur", "ouverture_le_samedi_jusqu_a_18h": "non", "reg_id": "R93", "geolocalisation": [43.615582, 7.071786], "dep_id": "D006", "nombre_de_semaines_an0": "46 semaines par an", "profil_disciplinaire": "Sciences, Staps"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [7.071786, 43.615582]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "96a2ad3dd45d5153b65be1de9faa0c0e4a002c05",
+    "fields": {
+        "ville": "Cergy-Pontoise Cedex", "reg_id_old": "R11", "uucr_id": "UU00851", "aca_nom": "Versailles", "com_nom": "Cergy", "ouverture_dimanche": "non", "horaires_le_samedi": "9h-19h", "etablissement_porteur": "Universit\u00e9 de Cergy-Pontoise", "nombre_de_semaines_an": "16 semaines par an", "uucr_nom": "Paris", "com_code": "95127", "ouverture_22h_5j_semaine": "oui", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 700, "dep_nom": "Val-d'Oise", "aca_id": "01-01-25", "nom_de_la_bu": "Cerclades", "reg_nom_old": "\u00cele-de-France", "adresse_geographique": "Place des Cerclades", "horaires_semaine": "L-V : 9h-22h", "ouverture_conges_universitaires": "oui", "localisation": "\u00cele-de-France>Versailles>Val-d'Oise>Cergy", "uai_etablissement_porteur": "0951793H", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "oui", "horaire_ouverture_semaine_noel_paques": "L-S : 1 semaine \u00e0 No\u00ebl et printemps", "code_postal": "95015", "reg_nom": "\u00cele-de-France", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R11", "geolocalisation": [49.036903, 2.080184], "dep_id": "D095", "nombre_de_semaines_an0": "47 semaines par an", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES;Lettres, Sciences Humaines;Sciences, Staps;Autres"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [2.080184, 49.036903]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "71d4420514c5d67a4689c34dc0aa224fcf7d38ff",
+    "fields": {
+        "ville": "Mulhouse", "reg_id_old": "R42", "uucr_id": "UU68701", "aca_nom": "Strasbourg", "com_nom": "Mulhouse", "ouverture_dimanche": "non", "horaires_le_samedi": "9h-12h", "etablissement_porteur": "Universit\u00e9 de Haute-Alsace", "nombre_de_semaines_an": "25 semaines par an", "uucr_nom": "Mulhouse", "com_code": "68224", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 216, "dep_nom": "Haut-Rhin", "aca_id": "01-01-15", "nom_de_la_bu": "Biblioth\u00e8que de l'Illberg", "reg_nom_old": "Alsace", "adresse_geographique": "8, rue des Fr\u00e8res Lumi\u00e8re", "horaires_semaine": "8h-20h", "ouverture_conges_universitaires": "oui", "localisation": "Grand Est>Strasbourg>Haut-Rhin>Mulhouse", "uai_etablissement_porteur": "0681166Y", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "8h-20h", "code_postal": "68093", "reg_nom": "Grand Est", "ouverture_le_samedi_jusqu_a_18h": "non", "reg_id": "R44", "geolocalisation": [47.730249, 7.312049], "dep_id": "D068", "nombre_de_semaines_an0": "25 semaines par an", "profil_disciplinaire": "Lettres, Sciences Humaines;Autres"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [7.312049, 47.730249]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "56fb93b5ad88e26d38c65069a364cf04f96c43c8",
+    "fields": {
+        "ville": "Valenciennes cedex 9", "reg_id_old": "R31", "uucr_id": "UU59701", "aca_nom": "Lille", "com_nom": "Valenciennes", "ouverture_dimanche": "non", "horaires_le_samedi": "8h-13h", "etablissement_porteur": "Universit\u00e9 de Valenciennes et du Hainaut-Cambr\u00e9sis", "nombre_de_semaines_an": "8 mois par an", "com_code": "59606", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2017", "nombre_de_places": 315, "dep_nom": "Nord", "aca_id": "01-01-09", "nom_de_la_bu": "BU Tertiales", "reg_nom_old": "Nord-Pas-de-Calais", "adresse_geographique": "Caserne Ronzier\nBoulevard Harpignies", "horaires_semaine": "8h-20h", "ouverture_conges_universitaires": "non", "localisation": "Hauts-de-France>Lille>Nord>Valenciennes", "uai_etablissement_porteur": "0593279U", "uucr_nom": "Valenciennes", "date_de_mise_en_place0": "\u00e0 partir de 2019 : samedi 8h-17h", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "P\u00e2ques ouvert mais No\u00ebl \"15 jours fermeture\"", "code_postal": "59313", "reg_nom": "Hauts-de-France", "ouverture_le_samedi_jusqu_a_18h": "non", "reg_id": "R32", "geolocalisation": [50.363008, 3.527915], "dep_id": "D059", "nombre_de_semaines_an0": "\"semaine normale\"", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES;Autres"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [3.527915, 50.363008]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "09c2c5cecb109e89ce5e9efaaf91b2df29af5c54",
+    "fields": {
+        "ville": "PARIS", "reg_id_old": "R11", "uucr_id": "UU00851", "aca_nom": "Paris", "com_nom": "Paris 16e", "ouverture_dimanche": "non", "horaires_le_samedi": "10h-18h", "etablissement_porteur": "Universit\u00e9 Paris-Dauphine", "nombre_de_semaines_an": "32 semaines par an", "uucr_nom": "Paris", "com_code": "75116", "ouverture_22h_5j_semaine": "oui", "date_de_mise_en_place": "\u00e0 partir de 2017", "nombre_de_places": 645, "dep_nom": "Paris", "nom_de_la_bu": "Biblioth\u00e8que d'\u00e9tude", "reg_nom_old": "\u00cele-de-France", "adresse_geographique": "Place du Mar\u00e9chal de Lattre de Tassigny", "horaires_semaine": "lundi-vendredi 9h - 22h", "ouverture_conges_universitaires": "non", "localisation": "\u00cele-de-France>Paris>Paris>Paris 16e", "uai_etablissement_porteur": "0750736T", "date_de_mise_en_place1": "d\u00e9j\u00e0 r\u00e9alis\u00e9", "date_de_mise_en_place0": "d\u00e9j\u00e0 r\u00e9alis\u00e9", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "Vacances de printemps", "code_postal": "75016", "reg_nom": "\u00cele-de-France", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R11", "geolocalisation": [48.870646, 2.274047], "dep_id": "D075", "nombre_de_semaines_an0": "32 semaines par an", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES;Sciences, Staps"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [2.274047, 48.870646]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "5b53d2b4bce3115c051b262f2892ce2233921471",
+    "fields": {
+        "ville": "BORDEAUX", "reg_id_old": "R72", "uucr_id": "UU33701", "aca_nom": "Bordeaux", "com_nom": "Bordeaux", "ouverture_dimanche": "non", "horaires_le_samedi": "9h-18h", "etablissement_porteur": "Universit\u00e9 de Bordeaux", "com_code": "33063", "ouverture_22h_5j_semaine": "oui", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 99, "dep_nom": "Gironde", "aca_id": "01-01-04", "nom_de_la_bu": "BU PLURIDISCIPLINAIRE", "reg_nom_old": "Aquitaine", "adresse_geographique": "125 Cours Alsace - Lorraine", "horaires_semaine": "L-V : 8h30-22h", "ouverture_conges_universitaires": "non", "localisation": "Nouvelle-Aquitaine>Bordeaux>Gironde>Bordeaux", "uai_etablissement_porteur": "0333298F", "uucr_nom": "Bordeaux", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "code_postal": "33000", "reg_nom": "Nouvelle-Aquitaine", "horaire_ouverture_semaine_noel_paques": "L-S : 2 semaines de No\u00ebl.", "reg_id": "R75", "geolocalisation": [44.837423, -0.575867], "dep_id": "D033", "ouverture_le_samedi_jusqu_a_18h": "oui", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES;Lettres, Sciences Humaines;Sciences, Staps;Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [-0.575867, 44.837423]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "352021b3b1044685abce1c797ee7b17bc8c386c7",
+    "fields": {
+        "ville": "Paris", "reg_id_old": "R11", "uucr_id": "UU00851", "aca_nom": "Paris", "com_nom": "Paris 15e", "ouverture_dimanche": "non", "horaires_le_samedi": "12h-19h", "etablissement_porteur": "Universit\u00e9 Paris Descartes", "com_code": "75115", "ouverture_22h_5j_semaine": "oui", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 59, "dep_nom": "Paris", "nom_de_la_bu": "HEGP", "reg_nom_old": "\u00cele-de-France", "adresse_geographique": "20 rue Leblanc", "horaires_semaine": "Lundi-vendredi 9h-23h", "ouverture_conges_universitaires": "non", "localisation": "\u00cele-de-France>Paris>Paris>Paris 15e", "uai_etablissement_porteur": "0751721N", "uucr_nom": "Paris", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "oui", "code_postal": "75015", "reg_nom": "\u00cele-de-France", "horaire_ouverture_semaine_noel_paques": "Vacances de printemps", "reg_id": "R11", "geolocalisation": [48.839639, 2.27374], "dep_id": "D075", "ouverture_le_samedi_jusqu_a_18h": "oui", "profil_disciplinaire": "Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [2.27374, 48.839639]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "d7207b74015a7795af02da4660c149ab1c791441",
+    "fields": {
+        "ville": "LYON", "reg_id_old": "R82", "uucr_id": "UU00758", "aca_nom": "Lyon", "com_nom": "Lyon 7e", "ouverture_dimanche": "oui", "horaires_le_samedi": "9h-17h", "etablissement_porteur": "Universit\u00e9 de Lyon", "nombre_de_semaines_an": "47 semaines par an", "uucr_nom": "Lyon", "com_code": "69387", "horaires_du_dimanche": "10h-18h", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 606, "dep_nom": "Rh\u00f4ne", "aca_id": "01-01-10", "nom_de_la_bu": "Lyon 2 - BU Chevreul", "reg_nom_old": "Rh\u00f4ne-Alpes", "adresse_geographique": "10 rue Chevreul", "horaires_semaine": "L-V : 9h-21h", "ouverture_conges_universitaires": "oui", "localisation": "Auvergne-Rh\u00f4ne-Alpes>Lyon>Rh\u00f4ne>Lyon 7e", "uai_etablissement_porteur": "0694094A", "date_de_mise_en_place1": "\u00e0 partir de 2017", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "L-V 9h-18h : 2 semaine \u00e0 No\u00ebl, et L-D : vacances de printemps", "code_postal": "69007", "date_mise_en_place": "\u00e0 partir de 2017", "ouverture_22h_5j_semaine": "non", "reg_nom": "Auvergne-Rh\u00f4ne-Alpes", "ouverture_le_samedi_jusqu_a_18h": "non", "reg_id": "R84", "geolocalisation": [45.749729, 4.836745], "dep_id": "D069", "nombre_de_semaines_an1": "43 semaines par an", "nombre_de_semaines_an0": "47 semaines par an", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES;Lettres, Sciences Humaines"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [4.836745, 45.749729]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "f81db51f4c8a221127af91cd2d5b7bccce645020",
+    "fields": {
+        "ville": "Villeurbanne", "reg_id_old": "R82", "uucr_id": "UU00758", "aca_nom": "Lyon", "com_nom": "Villeurbanne", "ouverture_dimanche": "non", "horaires_le_samedi": "9h-17h", "etablissement_porteur": "Universit\u00e9 de Lyon", "nombre_de_semaines_an": "41 semaines par an", "uucr_nom": "Lyon", "com_code": "69266", "ouverture_22h_5j_semaine": "oui", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 360, "dep_nom": "Rh\u00f4ne", "aca_id": "01-01-10", "nom_de_la_bu": "SCD Doc'INSA - Biblioth\u00e8que Marie Curie", "reg_nom_old": "Rh\u00f4ne-Alpes", "adresse_geographique": "31 avenue Jean Capelle", "horaires_semaine": "L-V : 9h-2hh", "ouverture_conges_universitaires": "oui", "localisation": "Auvergne-Rh\u00f4ne-Alpes>Lyon>Rh\u00f4ne>Villeurbanne", "uai_etablissement_porteur": "0694094A", "date_de_mise_en_place1": "\u00e0 partir de 2018", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "L-V (9h-18h) : 2 semaine \u00e0 No\u00ebl, et L-S : vacances de printemps", "code_postal": "69621", "reg_nom": "Auvergne-Rh\u00f4ne-Alpes", "ouverture_le_samedi_jusqu_a_18h": "non", "reg_id": "R84", "geolocalisation": [45.782391, 4.876407], "dep_id": "D069", "nombre_de_semaines_an0": "35 semaines par an", "profil_disciplinaire": "Sciences, Staps"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [4.876407, 45.782391]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "004dd35169596dc964e290d0e1794fa413d3dd8f",
+    "fields": {
+        "ville": "Noum\u00e9a Cedex", "reg_id_old": "R00", "uucr_id": "TOM98818", "aca_nom": "Nouvelle-Cal\u00e9donie", "com_nom": "Noum\u00e9a", "ouverture_dimanche": "non", "horaires_le_samedi": "8h18h", "etablissement_porteur": "Universit\u00e9 de la Nouvelle-Cal\u00e9donie", "nombre_de_semaines_an": "3 semaines par an", "uucr_nom": "Noum\u00e9a", "com_code": "98818", "horaires_du_dimanche": "8h-13h", "date_de_mise_en_place": "\u00e0 partir de 2018", "nombre_de_places": 475, "dep_nom": "Nouvelle-Cal\u00e9donie", "aca_id": "2040-01-01", "nom_de_la_bu": "Biblioth\u00e8que Universitaire", "reg_nom_old": "Collectivit\u00e9s d'outre-mer", "adresse_geographique": "Campus de Nouville\nRue James Cook", "horaires_semaine": "Lundi-vendredi 7h-21h", "ouverture_conges_universitaires": "non", "localisation": "Collectivit\u00e9s d'outre-mer>Nouvelle-Cal\u00e9donie>Nouvelle-Cal\u00e9donie>Noum\u00e9a", "uai_etablissement_porteur": "9830445S", "date_de_mise_en_place1": "d\u00e9j\u00e0 r\u00e9alis\u00e9", "date_de_mise_en_place0": "\u00e0 partir de 2017", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "vacances de printemps?", "code_postal": "98851", "date_mise_en_place": "\u00e0 partir de 2018", "ouverture_22h_5j_semaine": "non", "reg_nom": "Collectivit\u00e9s d'outre-mer", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R00", "geolocalisation": [-22.2632634, 166.4036438], "dep_id": "D988", "nombre_de_semaines_an1": "3 semaines par an", "nombre_de_semaines_an0": "toute l'ann\u00e9e universitaire", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES;Lettres, Sciences Humaines;Sant\u00e9;Autres"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [166.4036438, -22.2632634]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "9e593e4166421213551eaf858c76c7fbf88c30e5",
+    "fields": {
+        "ville": "Lyon cedex 08", "reg_id_old": "R82", "uucr_id": "UU00758", "aca_nom": "Lyon", "com_nom": "Lyon 8e", "ouverture_dimanche": "non", "horaires_le_samedi": "9h30-17h", "etablissement_porteur": "Universit\u00e9 de Lyon", "nombre_de_semaines_an": "47 semaines par an", "uucr_nom": "Lyon", "com_code": "69388", "horaires_du_dimanche": "10h-17h", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 1449, "dep_nom": "Rh\u00f4ne", "aca_id": "01-01-10", "nom_de_la_bu": "Manufacture", "reg_nom_old": "Rh\u00f4ne-Alpes", "adresse_geographique": "6 cours Albert Thomas", "horaires_semaine": "L-V : 8h30-22h", "ouverture_conges_universitaires": "oui", "localisation": "Auvergne-Rh\u00f4ne-Alpes>Lyon>Rh\u00f4ne>Lyon 8e", "uai_etablissement_porteur": "0694094A", "date_de_mise_en_place1": "\u00e0 partir de 2019", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "L-V 9h-18h : 2 semaine \u00e0 No\u00ebl, et L-D : vacances de printemps", "code_postal": "69371", "date_mise_en_place": "\u00e0 partir de 2017", "ouverture_22h_5j_semaine": "oui", "reg_nom": "Auvergne-Rh\u00f4ne-Alpes", "ouverture_le_samedi_jusqu_a_18h": "non", "reg_id": "R84", "geolocalisation": [45.747912, 4.860358], "dep_id": "D069", "nombre_de_semaines_an1": "43 semaines par an", "nombre_de_semaines_an0": "47 semaines par an", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES;Lettres, Sciences Humaines"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [4.860358, 45.747912]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "2e1f6841d86baf1624ee7cc927ebf507d3473bac",
+    "fields": {
+        "ville": "Le Kremlin-Bic\u00eatre", "reg_id_old": "R11", "uucr_id": "UU00851", "aca_nom": "Paris", "com_nom": "Le Kremlin-Bic\u00eatre", "ouverture_dimanche": "non", "horaires_le_samedi": "10h-19h", "etablissement_porteur": "Universit\u00e9 Paris-Sud", "nombre_de_semaines_an": "toute l'ann\u00e9e universitaire", "com_code": "94043", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "d\u00e9j\u00e0 r\u00e9alis\u00e9", "nombre_de_places": 350, "dep_nom": "Paris", "nom_de_la_bu": "Kremlin Bic\u00eatre-M\u00e9decine", "reg_nom_old": "\u00cele-de-France", "adresse_geographique": "63 rue Gabriel P\u00e9ri", "horaires_semaine": "Lundi-jeudi 9h-22h\nVendredi 9h-21h", "ouverture_conges_universitaires": "non", "localisation": "\u00cele-de-France>Paris>Paris>Le Kremlin-Bic\u00eatre", "uai_etablissement_porteur": "0911101C", "uucr_nom": "Paris", "date_de_mise_en_place0": "\u00e0 partir de 2017", "ouverture_le_samedi_jusqu_a_19h": "oui", "horaire_ouverture_semaine_noel_paques": "Vacances de printemps", "code_postal": "94276", "reg_nom": "\u00cele-de-France", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R11", "geolocalisation": [48.811734, 2.353267], "dep_id": "D075", "nombre_de_semaines_an0": "34 semaines par an", "profil_disciplinaire": "Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [2.353267, 48.811734]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "8abb1e9c2044265defabe93fcd3f6eb520bb5215",
+    "fields": {
+        "ville": "Orl\u00e9ans", "reg_id_old": "R24", "uucr_id": "UU45701", "aca_nom": "Orl\u00e9ans-Tours", "com_nom": "Orl\u00e9ans", "ouverture_dimanche": "non", "horaires_le_samedi": "ferm\u00e9", "etablissement_porteur": "Universit\u00e9 d'Orl\u00e9ans", "nombre_de_semaines_an": "extension \u00e0 22h sur 12 semaines avant les examens", "uucr_nom": "Orl\u00e9ans", "com_code": "45234", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 350, "dep_nom": "Loiret", "aca_id": "01-01-18", "nom_de_la_bu": "B.U. Sciences, Technologies, STAPS", "reg_nom_old": "Centre", "adresse_geographique": "9 rue de Saint Amand", "horaires_semaine": "lundi 8h-20h\nmardi-jeudi 8h-22h\nVendredi 8h-20h", "ouverture_conges_universitaires": "non", "localisation": "Centre-Val de Loire>Loiret>Orl\u00e9ans", "uai_etablissement_porteur": "0450855K", "date_de_mise_en_place1": "d\u00e9j\u00e0 r\u00e9alis\u00e9", "ouverture_le_samedi_jusqu_a_19h": "non", "code_postal": "45072", "reg_nom": "Centre-Val de Loire", "horaire_ouverture_semaine_noel_paques": "vacances de printemps", "reg_id": "R24", "geolocalisation": [47.845151, 1.93613], "dep_id": "D045", "ouverture_le_samedi_jusqu_a_18h": "non", "profil_disciplinaire": "Sciences, Staps;Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [1.93613, 47.845151]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "2082d2a22e5acae1be75776bd62de1bd072c8490",
+    "fields": {
+        "ville": "Mulhouse", "reg_id_old": "R42", "uucr_id": "UU68701", "aca_nom": "Strasbourg", "com_nom": "Mulhouse", "ouverture_dimanche": "non", "horaires_le_samedi": "9h-12h", "etablissement_porteur": "Universit\u00e9 de Haute-Alsace", "nombre_de_semaines_an": "33 semaines par an", "com_code": "68224", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 242, "dep_nom": "Haut-Rhin", "aca_id": "01-01-15", "nom_de_la_bu": "Biblioth\u00e8que de la Fonderie", "reg_nom_old": "Alsace", "adresse_geographique": "16 rue de la Fonderie", "horaires_semaine": "8h-18h30", "localisation": "Grand Est>Strasbourg>Haut-Rhin>Mulhouse", "uai_etablissement_porteur": "0681166Y", "uucr_nom": "Mulhouse", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "non", "code_postal": "68200", "reg_nom": "Grand Est", "nombre_de_semaines_an0": "33 semaines par an", "reg_id": "R44", "geolocalisation": [47.739012, 7.332306], "dep_id": "D068", "ouverture_le_samedi_jusqu_a_18h": "non", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [7.332306, 47.739012]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "8da5aed6d02ff0b8de64b1890fec7d903787061c",
+    "fields": {
+        "ville": "ANGERS", "reg_id_old": "R52", "uucr_id": "UU49701", "aca_nom": "Nantes", "com_nom": "Angers", "ouverture_dimanche": "oui", "horaires_le_samedi": "8h30-22h30", "etablissement_porteur": "Universit\u00e9 Bretagne Loire", "nombre_de_semaines_an": "48 semaines par an", "uucr_nom": "Angers", "com_code": "49007", "horaires_du_dimanche": "13h-20h", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 800, "dep_nom": "Maine-et-Loire", "aca_id": "01-01-17", "nom_de_la_bu": "Biblioth\u00e8que Universit\u00e9 Saint-Serge", "reg_nom_old": "Pays de la Loire", "adresse_geographique": "57 quai F\u00e9lix Faure", "horaires_semaine": "L-V : 8h30-22h30", "ouverture_conges_universitaires": "oui", "localisation": "Pays de la Loire>Maine-et-Loire>Angers", "uai_etablissement_porteur": "0352756F", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "oui", "horaire_ouverture_semaine_noel_paques": "L- S : vacances de No\u00ebl et printemps", "code_postal": "49055", "date_mise_en_place": "\u00e0 partir de 2016", "ouverture_22h_5j_semaine": "oui", "reg_nom": "Pays de la Loire", "ouverture_le_samedi_jusqu_a_18h": "oui", "reg_id": "R52", "geolocalisation": [47.478884, -0.551129], "dep_id": "D049", "nombre_de_semaines_an1": "32 semaines par an", "nombre_de_semaines_an0": "48 semaines par an", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES;Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [-0.551129, 47.478884]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "db8fc10568da15a4662a7001b73dcec10900a311",
+    "fields": {
+        "ville": "Nice", "reg_id_old": "R93", "uucr_id": "UU06701", "aca_nom": "Nice", "com_nom": "Nice", "ouverture_dimanche": "oui", "horaires_le_samedi": "10h-20h", "etablissement_porteur": "Universit\u00e9 C\u00f4te d'Azur", "nombre_de_semaines_an": "34 semaines par an", "uucr_nom": "Nice", "com_code": "06088", "horaires_du_dimanche": "10h-20h", "date_de_mise_en_place": "\u00e0 partir de 2017", "nombre_de_places": 500, "dep_nom": "Alpes-Maritimes", "aca_id": "01-01-23", "nom_de_la_bu": "BU Saint Jean d'Ang\u00e9ly", "reg_nom_old": "Provence-Alpes-C\u00f4te d'Azur", "adresse_geographique": "Universit\u00e9 Nice Sophia Antipolis\n24 avenue des Diables Bleus", "horaires_semaine": "8h-24h", "ouverture_conges_universitaires": "oui", "localisation": "Provence-Alpes-C\u00f4te d'Azur>Nice>Alpes-Maritimes>Nice", "uai_etablissement_porteur": "0062126D", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "oui", "code_postal": "06357", "date_mise_en_place": "\u00e0 partir de 2016", "ouverture_22h_5j_semaine": "oui", "reg_nom": "Provence-Alpes-C\u00f4te d'Azur", "nombre_de_semaines_an0": "34 semaines par an", "reg_id": "R93", "geolocalisation": [43.709277, 7.288665], "dep_id": "D006", "ouverture_le_samedi_jusqu_a_18h": "oui", "profil_disciplinaire": "Economie, AES;Sant\u00e9;Lettres, Sciences Humaines"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [7.288665, 43.709277]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "dd3bb3543e7aa517a9415105f4876c74158851a9",
+    "fields": {
+        "ville": "PAU cedex", "reg_id_old": "R72", "uucr_id": "UU64601", "aca_nom": "Bordeaux", "com_nom": "Pau", "ouverture_dimanche": "non", "horaires_le_samedi": "10h-17h", "etablissement_porteur": "Universit\u00e9 de Pau et des Pays de l'Adour", "nombre_de_semaines_an": "\"semaine normale\" / jusqu'\u00e0 22h 3 semaines avant examens", "uucr_nom": "Pau", "com_code": "64445", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2018", "nombre_de_places": 680, "dep_nom": "Pyr\u00e9n\u00e9es-Atlantiques", "aca_id": "01-01-04", "nom_de_la_bu": "BU Droit-Lettres - P\u00f4le Formation", "reg_nom_old": "Aquitaine", "adresse_geographique": "Campus universitaire BP 7506", "horaires_semaine": "8h-20h", "ouverture_conges_universitaires": "non", "localisation": "Nouvelle-Aquitaine>Bordeaux>Pyr\u00e9n\u00e9es-Atlantiques>Pau", "uai_etablissement_porteur": "0640251A", "date_de_mise_en_place1": "\u00e0 partir de 2018", "date_de_mise_en_place0": "\u00e0 partir de 2018", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "P\u00e2ques ouvert mais No\u00ebl \"10-12 jours\" fermeture", "code_postal": "64075", "reg_nom": "Nouvelle-Aquitaine", "ouverture_le_samedi_jusqu_a_18h": "non", "reg_id": "R75", "geolocalisation": [43.315315, -0.36542], "dep_id": "D064", "nombre_de_semaines_an0": "30 semaines par an", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES;Lettres, Sciences Humaines"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [-0.36542, 43.315315]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "2b76326dc0f009bea1e696f76c198f7d5da119ef",
+    "fields": {
+        "ville": "BAYONNE cedex", "reg_id_old": "R72", "uucr_id": "UU00751", "aca_nom": "Bordeaux", "com_nom": "Bayonne", "ouverture_dimanche": "non", "horaires_le_samedi": "9h-13h", "etablissement_porteur": "Universit\u00e9 de Pau et des Pays de l'Adour", "nombre_de_semaines_an": "\"semaine normale\"", "uucr_nom": "Bayonne", "com_code": "64102", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2018", "nombre_de_places": 220, "dep_nom": "Pyr\u00e9n\u00e9es-Atlantiques", "aca_id": "01-01-04", "nom_de_la_bu": "BU Florence Delay", "reg_nom_old": "Aquitaine", "adresse_geographique": "19, Place Paul Bert", "horaires_semaine": "8h30-19h30 L-J //8h30-18h V", "ouverture_conges_universitaires": "non", "localisation": "Nouvelle-Aquitaine>Bordeaux>Pyr\u00e9n\u00e9es-Atlantiques>Bayonne", "uai_etablissement_porteur": "0640251A", "date_de_mise_en_place1": "\u00e0 partir de 2018", "date_de_mise_en_place0": "\u00e0 partir de 2018", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "P\u00e2ques ouvert mais No\u00ebl \"10 \u00e0 12 jours\"", "code_postal": "64185", "reg_nom": "Nouvelle-Aquitaine", "ouverture_le_samedi_jusqu_a_18h": "non", "reg_id": "R75", "geolocalisation": [43.489813, -1.47015], "dep_id": "D064", "nombre_de_semaines_an0": "\"semaine normale\"", "profil_disciplinaire": "Droit, Sciences politiques;Economie, AES;Lettres, Sciences Humaines"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [-1.47015, 43.489813]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "9fee1e60648039bb6e74fffbc60d5cafb8cc7c1e",
+    "fields": {
+        "ville": "PAU cedex", "reg_id_old": "R72", "uucr_id": "UU64601", "aca_nom": "Bordeaux", "com_nom": "Pau", "ouverture_dimanche": "non", "horaires_le_samedi": "10h-17h", "etablissement_porteur": "Universit\u00e9 de Pau et des Pays de l'Adour", "nombre_de_semaines_an": "\"semaine normale\"", "uucr_nom": "Pau", "com_code": "64445", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2018", "nombre_de_places": 150, "dep_nom": "Pyr\u00e9n\u00e9es-Atlantiques", "aca_id": "01-01-04", "nom_de_la_bu": "BU Sciences et Techniques", "reg_nom_old": "Aquitaine", "adresse_geographique": "Campus universitaire\nBP 7506", "horaires_semaine": "8h30-18h", "ouverture_conges_universitaires": "non", "localisation": "Nouvelle-Aquitaine>Bordeaux>Pyr\u00e9n\u00e9es-Atlantiques>Pau", "uai_etablissement_porteur": "0640251A", "date_de_mise_en_place1": "\u00e0 partir de 2018", "date_de_mise_en_place0": "\u00e0 partir de 2018", "ouverture_le_samedi_jusqu_a_19h": "non", "horaire_ouverture_semaine_noel_paques": "P\u00e2ques ouvert mais No\u00ebl \"10 \u00e0 12 jours\" fermeture", "code_postal": "64075", "reg_nom": "Nouvelle-Aquitaine", "ouverture_le_samedi_jusqu_a_18h": "non", "reg_id": "R75", "geolocalisation": [43.314223, -0.365041], "dep_id": "D064", "nombre_de_semaines_an0": "\"semaine normale\"", "profil_disciplinaire": "Sciences, Staps"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [-0.365041, 43.314223]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "9e317c19aa74be498ea94737bd40531018572d65",
+    "fields": {
+        "ville": "Paris", "reg_id_old": "R11", "uucr_id": "UU00851", "aca_nom": "Paris", "com_nom": "Paris  7e", "ouverture_dimanche": "non", "horaires_le_samedi": "9h30-21h30", "etablissement_porteur": "Institut d'\u00e9tudes politiques de Paris", "nombre_de_semaines_an": "31 semaines (nb 9h30-21h30 /10 semaines \u00e9t\u00e9)", "uucr_nom": "Paris", "com_code": "75107", "ouverture_22h_5j_semaine": "oui", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 409, "dep_nom": "Paris", "nom_de_la_bu": "Biblioth\u00e8que de Sciences Po", "reg_nom_old": "\u00cele-de-France", "adresse_geographique": "27 rue Saint Guillaume", "horaires_semaine": "8h-23h", "ouverture_conges_universitaires": "oui", "localisation": "\u00cele-de-France>Paris>Paris>Paris  7e", "uai_etablissement_porteur": "0753431X", "date_de_mise_en_place1": "\u00e0 partir de 2016", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "oui", "code_postal": "75007", "reg_nom": "\u00cele-de-France", "nombre_de_semaines_an0": "31 semaines par an", "reg_id": "R11", "geolocalisation": [48.854134, 2.328395], "dep_id": "D075", "ouverture_le_samedi_jusqu_a_18h": "oui", "profil_disciplinaire": "Droit, Sciences politiques"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [2.328395, 48.854134]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "a9681ad3028ff3fc8ac726985540f18777dc5711",
+    "fields": {
+        "ville": "Paris", "reg_id_old": "R11", "uucr_id": "UU00851", "aca_nom": "Paris", "com_nom": "Paris  6e", "ouverture_dimanche": "non", "horaires_le_samedi": "10h-19h", "etablissement_porteur": "Universit\u00e9 Paris Descartes", "com_code": "75106", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 200, "dep_nom": "Paris", "nom_de_la_bu": "BIUS", "reg_nom_old": "\u00cele-de-France", "adresse_geographique": "12 rue de l'Ecole de M\u00e9decine", "horaires_semaine": "Lundi-vendredi 9h-20h", "ouverture_conges_universitaires": "non", "localisation": "\u00cele-de-France>Paris>Paris>Paris  6e", "uai_etablissement_porteur": "0751721N", "uucr_nom": "Paris", "date_de_mise_en_place0": "\u00e0 partir de 2016", "ouverture_le_samedi_jusqu_a_19h": "oui", "code_postal": "75006", "reg_nom": "\u00cele-de-France", "horaire_ouverture_semaine_noel_paques": "Vacances de printemps", "reg_id": "R11", "geolocalisation": [48.851237, 2.34077], "dep_id": "D075", "ouverture_le_samedi_jusqu_a_18h": "oui", "profil_disciplinaire": "Sant\u00e9"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [2.34077, 48.851237]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+,
+{
+    "datasetid": "fr-esr-bu-plan-bibliotheques-ouvertes",
+    "recordid": "7df7726bab0cd587a356fe2cbf196114b837de15",
+    "fields": {
+        "ville": "CAEN Cedex", "reg_id_old": "R25", "uucr_id": "UU14601", "aca_nom": "Caen", "com_nom": "Caen", "ouverture_dimanche": "non", "horaires_le_samedi": "9h-19h", "etablissement_porteur": "Normandie Universit\u00e9", "com_code": "14118", "ouverture_22h_5j_semaine": "non", "date_de_mise_en_place": "\u00e0 partir de 2016", "nombre_de_places": 1100, "dep_nom": "Calvados", "aca_id": "01-01-05", "nom_de_la_bu": "Sciences-STAPS", "reg_nom_old": "Basse-Normandie", "adresse_geographique": "Campus 2\n2 boulevard mar\u00e9chal Juin\nCS 14032", "horaires_semaine": "Lundi 10h-19h\nMardi-vendredi 9h-19h", "ouverture_conges_universitaires": "non", "localisation": "Normandie>Caen>Calvados>Caen", "uai_etablissement_porteur": "0142382N", "uucr_nom": "Caen", "ouverture_le_samedi_jusqu_a_19h": "oui", "code_postal": "14032", "reg_nom": "Normandie", "horaire_ouverture_semaine_noel_paques": "vacances de printemps", "reg_id": "R28", "geolocalisation": [49.211323, -0.369756], "dep_id": "D014", "ouverture_le_samedi_jusqu_a_18h": "oui", "profil_disciplinaire": "Autres;Sciences, Staps"
+    }
+    ,
+    "geometry": {
+        "type": "Point", "coordinates": [-0.369756, 49.211323]
+    }
+    ,
+    "record_timestamp": "2016-10-03T13:34:51+02:00"
+}
+
+]
