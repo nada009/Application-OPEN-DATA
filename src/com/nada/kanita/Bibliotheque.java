@@ -29,9 +29,9 @@ public class Bibliotheque extends DataModel
 	@Override
 	public String toString()
 	{
-		return uai_etab_porteur + code_postale
-				+ nombre_de_places + horaires_semaine
-				+ ouverture_22_5j_semaine
+		return uai_etab_porteur + code_postale + title + address
+				+ nombre_de_places + horaires_semaine + infos + zone
+				+ ouverture_22_5j_semaine + geoPoint
 				+ nombre_de_semaines_an + date_mis_en_place
 				+ horaires_samedi + ouverture_samedi_19h
 				+ horaires_diamanche + ouverture_dimanche
